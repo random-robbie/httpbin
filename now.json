@@ -1,7 +1,4 @@
 {
     "name": "httpbin",
-    "regions": [
-        "all"
-    ],
     "type": "docker"
 }
