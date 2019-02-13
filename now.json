@@ -1,4 +1,5 @@
 {
     "name": "httpbin",
-    "type": "docker"
+    "type": "docker",
+    "version": "2" 
 }
